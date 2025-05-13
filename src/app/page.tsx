@@ -27,8 +27,10 @@ export default function Home() {
               <li><a href="#intro" className="hover:text-[#BBDEFB] transition-colors">Home</a></li>
               <li><a href="#products" className="hover:text-[#BBDEFB] transition-colors">Products</a></li>
               <li><a href="#mission" className="hover:text-[#BBDEFB] transition-colors">Mission</a></li>
-              <li><a href="#vision" className="hover:text-[#BBDEFB] transition-colors">Vision</a></li>
               <li><a href="#contact" className="hover:text-[#BBDEFB] transition-colors">Contact</a></li>
+              <li><a href="/privacy" className="hover:text-[#BBDEFB] transition-colors">Privacy</a></li>
+              <li><a href="/terms" className="hover:text-[#BBDEFB] transition-colors">Terms</a></li>
+              
             </ul>
           </nav>
           <button className="md:hidden" aria-label="Toggle mobile menu">
